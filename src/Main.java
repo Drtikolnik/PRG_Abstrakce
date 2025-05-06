@@ -22,19 +22,8 @@ public class Main {
 
         vlhka.vydejZvuk();
         vlhka.vypisJmenoADatum();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
+
+
+
 }
